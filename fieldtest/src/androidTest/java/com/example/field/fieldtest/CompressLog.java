@@ -14,6 +14,8 @@ import java.io.File;
 
 /**
  * Created by wangshiqian on 2018/9/30.
+ *
+ *
  */
 @RunWith(AndroidJUnit4.class)
 public class CompressLog {
