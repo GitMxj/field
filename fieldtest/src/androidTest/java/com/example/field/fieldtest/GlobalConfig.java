@@ -58,11 +58,11 @@ public class GlobalConfig {
 
     //live for 5.1.0
 
-    public static String lolChannel = "air.tv.douyu.android:id/abc";//首页英雄联盟的resource-id
+    public static String lolChannel = "air.tv.douyu.android:id/abh";//首页英雄联盟的resource-id
 
     public static String loginCancle = "air.tv.douyu.android:id/close_btn";//登录账号的关闭页面
 
-    public static String liveRoom = "air.tv.douyu.android:id/avy";//  英雄联盟频道里面的房间号
+    public static String liveRoom = "air.tv.douyu.android:id/aw1";//  英雄联盟频道里面的房间号
 
 
     //music for 6.7.0.1
